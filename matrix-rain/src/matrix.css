@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.matrix__value {
+  color: #32cd32;
+  font-size: 25px;
+  height: 35px;
+  width: 35px;
+  font-weight: bold;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.matrix__grid {
+  display: flex;
+  justify-content: center;
+}
+
+.matrix__column {
+  display: grid;
+  grid-template-rows: repeat(10, 25px);
+}
