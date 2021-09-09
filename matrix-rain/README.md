@@ -2,7 +2,10 @@
 
 This problem was an entertaining challenge to see if I could recreate the classic Matrix 'code rain' scene as an interactive background. The answer is... I could!
 
-![Example screenshot](matrix-rain/src/assets/Matrix-rain-screenshot.png?raw=true "Title")
+![Example screenshot](https://github.com/jimberry1/matrix/blob/main/matrix-rain/src/assets/Matrix-rain-screenshot.png)
+
+
+Please find the CRA documentation below:
 
 
 # Getting Started with Create React App
